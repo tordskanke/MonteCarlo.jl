@@ -1,2 +1,2 @@
 # MonteCarlo.jl
-A Monte Carlo code for simulating molecules.
+An unfinished Monte Carlo code for simulating molecules.
