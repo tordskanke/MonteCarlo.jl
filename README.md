@@ -5,6 +5,6 @@ An unfinished Monte Carlo code for simulating molecules.
 
 To do
 - Lennard-Jones and Coulomb interactions
-- Implicit solvent (enters the model with its permittivity)
+- Implicit solvent (enters the model through its permittivity)
 - Configurational bias Monte Carlo
 - Much more...
